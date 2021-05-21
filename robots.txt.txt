@@ -1,2 +1,4 @@
+sitemap: https://www.iexplaind.com/sitemap.xml
+
 User-agent: Googlebot Disallow: /apps/
 User-agent: Googlebot Disallow: /games/
