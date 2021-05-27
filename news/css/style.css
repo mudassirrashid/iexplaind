@@ -52,6 +52,10 @@ p {
     text-align: justify;
 }
 
+a:link {
+  text-decoration: none;
+}
+
 video {
   max-width: 100%    !important;
   height: auto   !important;
@@ -144,4 +148,3 @@ div.sticky {
   height: auto;
   background-color: #F9E79F;
 }
-
